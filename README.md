@@ -30,7 +30,7 @@ This dashboard serves as a strategic decision-support tool for lenders—combini
 - Testing & Validation- Test all requirements.
 - Create dashboard and Verify interactive features online (links, filters, parameter actions).
 
-  ## Project Insight
+## Project Insight
 - Total Credit Amount – Displays the total deposits or credits made, highlighting the inflow of funds and allowing comparison with withdrawals.
 - Total Debit Amount – Shows the total withdrawals or debits, reflecting the outflow of funds.
 - Credit to Debit Ratio – Compares total credits to total debits to assess whether inflows exceed outflows.
